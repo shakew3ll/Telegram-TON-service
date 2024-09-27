@@ -1,0 +1,9 @@
+is_debug: true
+grpc:
+  host: 127.0.0.1
+  port: 30002
+logger:
+  writer: stdout
+  level: trace
+timeout:
+  value: 5s
